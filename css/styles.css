@@ -16,14 +16,9 @@ h3 {
 img {
    box-shadow: 0 0 20px #666;
 }
-
-.dropcap {
-        font-size: 72px;
-        color: #FF849E;
-        float: left;
-        margin: 10px;
-}
-
+#scale {
+	title: Playing Range;
+	}
 
 .container_12 {
         background: rgba(255,255,255,.45);
