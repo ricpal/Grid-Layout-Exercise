@@ -24,8 +24,17 @@ img {
         background: rgba(255,255,255,.45);
 }
 
+li {
+  background: gray;
+  display: block;
+  list-style: none;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
 
-
+li:hover {
+  background: blue;
+} 
 
 /* Helper Classes */
 .showgrid {
