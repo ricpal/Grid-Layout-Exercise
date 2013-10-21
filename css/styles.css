@@ -4,7 +4,7 @@ body {
 }
 
 h1, h3 {
-        color: #CBD5BD;
+        color: gray;
         text-transform: uppercase;
         border-bottom: 10px solid black;
 }
@@ -21,7 +21,7 @@ img {
 	}
 
 .container_12 {
-        background: rgba(255,255,255,.45);
+        background: url("../img/staff.jpg");
 }
 
 li {
